@@ -28,3 +28,12 @@ Your submission should be a PDF that includes:
 4. What were your key considerations when deciding how to visualize the trends?
 5. Line chart with local and global temperature trends
 6. At least four observations about the similarities and/or differences in the trends
+
+## Criteria
+
+|CRITERIA|MEETS SPECIFICATIONS|
+|---|---|
+|Student is able to extract data from a database using SQL.|<ul><li>The SQL query used to extract the data is included.</li><li>The query runs without error and pulls the intended data.</li></ul>|
+|Student is able to manipulate data in a spreadsheet or similar tool.|Moving averages are calculated to be used in the line chart.|
+|Student is able to create a clear data visualization.|<ul><li>A line chart is included in the submission.</li><li>The chart and its axes have titles, and there's a clear legend (if applicable).</li></ul>|
+Student is able to interpret a data visualization.|<ul><li>The student includes four observations about their provided data visualization.</li><li>The four observations are accurate.</li></ul>|
